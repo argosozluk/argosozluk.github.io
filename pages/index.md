@@ -7,4 +7,4 @@ permalink: /
 title: argosözlük
 ---
 
-argolu, argosuz birçok kelime hakkında düşüncemi belirttiğim sözlük. instagram'da <a target="_blank" href="https://instagram.com/mrt0gl">takip eyle</a>
+argolu, argosuz birçok kelime hakkında düşünce ve fikirlerimi belirttiğim sözlük.
