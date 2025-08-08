@@ -35,10 +35,10 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "Your Site Title"
-heading: "Your Name"
-description: "A brief description of your site"
-url: "https://yoursite.com"
+title: "argosözlük"
+heading: "argosözlük"
+description: "argosuz argosözlük"
+url: "https://argosozluk.github.io"
 baseurl: ""
 
 # Asset Configuration
@@ -48,18 +48,18 @@ ie_css: "/assets/css/ie-target.css"
 
 # Menu Items
 menu:
-  - title: "Notes"
-    url: "/notes"
-  - title: "Blog"
-    url: "/blog"
-  - title: "About"
-    url: "/about"
+  - title: "akış"
+    url: "/"
+  - title: "iletişim"
+    url: "/iletisim"
+  - title: "profilim"
+    url: "/amertoglu"
 
 # Footer
 footer:
-  copyright: "© 2024 Your Name. Contents under CC-BY-NC"
+  copyright: "argosözlük © 2025"
   credits:
-    enabled: true
+    enabled: false
     url: "/credits"
     text: "Credits"
 
