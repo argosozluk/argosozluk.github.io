@@ -6,3 +6,5 @@ layout: Post
 permalink: /
 title: argosözlük
 ---
+
+argolu, argosuz birçok kelime hakkında düşüncemi belirttiğim sözlük. <a target="_blank" href="https://instagram.com/mrt0gl">takip eyle</a>
