@@ -7,6 +7,4 @@ permalink: /
 title: argosözlük
 ---
 
-argolu sözlük platformu
-<br/>
-<a target="_blank" href="https://instagram.com/amertoglu_">takip eyle</a>
+argosuz argo sözlüğü
