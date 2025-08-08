@@ -7,4 +7,4 @@ permalink: /
 title: argosözlük
 ---
 
-argolu, argosuz birçok kelime hakkında düşünce ve fikirlerimi belirttiğim sözlük.
+argolu ve argosuz birçok kelime hakkında düşünce ve fikirlerimi belirttiğim sözlük sitesi.
