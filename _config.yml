@@ -57,11 +57,11 @@ menu:
 
 # Footer
 footer:
-  copyright: "argosözlük © 2025"
+  copyright: "© 2025 argosözlük"
   credits:
-    enabled: false
-    url: "/credits"
-    text: "Credits"
+    enabled: true
+    url: "https://instagram.com/amertoglu_"
+    text: "@amertoglu_"
 
 # Collections
 collections:
