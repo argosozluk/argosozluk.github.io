@@ -1,5 +1,5 @@
 ---
-title: "İletişim"
+title: "iletişim"
 layout: Post
 content-type: "static"
 permalink: /iletisim
