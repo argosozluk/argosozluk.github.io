@@ -36,7 +36,7 @@ preferences:
 
 # Site Configuration
 title: "argosözlük"
-heading: "argosözlük"
+heading: " argosözlük"
 description: "argosuz argosözlük"
 url: "https://argosozluk.github.io"
 baseurl: ""
@@ -50,10 +50,10 @@ ie_css: "/assets/css/ie-target.css"
 menu:
   - title: "akış"
     url: "/"
-  - title: "iletişim"
+  - title: "blog"
+    url: "https://amertoglu.blogspot.com"
+  - title: "iletisim"
     url: "/iletisim"
-  - title: "profilim"
-    url: "/amertoglu"
 
 # Footer
 footer:
