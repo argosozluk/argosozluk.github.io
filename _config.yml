@@ -48,11 +48,11 @@ ie_css: "/assets/css/ie-target.css"
 
 # Menu Items
 menu:
-  - title: "akış"
+  - title: "anasayfa"
     url: "/"
   - title: "blog"
     url: "https://amertoglu.blogspot.com"
-  - title: "iletisim"
+  - title: "iletişim"
     url: "/iletisim"
 
 # Footer
