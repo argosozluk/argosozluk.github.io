@@ -7,4 +7,4 @@ permalink: /
 title: argosözlük
 ---
 
-argosuz argo sözlüğü
+sen de argo <a href="/iletisim">kelime ekle</a>
