@@ -4,7 +4,7 @@
 
 layout: Post
 permalink: /
-title: argosözlük
+title: argo
 ---
 
-sen de, <a href="/iletisim">kelime ekle</a>
+kelimelerin resmiyetten kaçıp sokak diline karıştığı, duyguların en çıplak ve bazen sert haliyle ifade bulduğu tarz.
