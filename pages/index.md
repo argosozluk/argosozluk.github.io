@@ -7,4 +7,4 @@ permalink: /
 title: argosözlük
 ---
 
-sen de, argo <a href="/iletisim">kelime ekle</a>
+sen de, <a href="/iletisim">kelime ekle</a>
