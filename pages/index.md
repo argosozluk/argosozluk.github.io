@@ -6,5 +6,3 @@ layout: Post
 permalink: /
 title: argosözlük
 ---
-
-argosuz argo sözlüğü
