@@ -4,7 +4,7 @@ feed: show
 date: 2025-08-10
 ---
 
-uzaktan bakınca iş görür gibi duran, eline alınca “ben ne aldım ya” dedirten şey. fiyatı cazip gelir, “bir süre idare eder” dersin, ama o süre genelde 3 gün bile sürmez. dandik dediğin, hem paranı hem moralini aynı anda götürür.
+uzaktan bakınca iş görür gibi duran, eline alınca "ben ne aldım ya" dedirten şey. fiyatı cazip gelir, "bir süre idare eder" dersin ama o süre genelde 3 gün bile sürmez. dandik dediğin, hem paranı hem moralini aynı anda götürür.
 
 10/08/2025 ~ 17:09
 
