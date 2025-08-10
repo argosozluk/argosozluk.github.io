@@ -4,7 +4,7 @@
 
 layout: Post
 permalink: /
-title: argo
+title: argosözlük
 ---
 
-kelimelerin resmiyetten kaçıp sokak diline karıştığı, duyguların en çıplak ve bazen sert haliyle ifade bulduğu tarz.
+argosuz argo sözlüğü
